@@ -1,6 +1,7 @@
 .head{
     color: #6b8e23; 
-	text-align: center
+	text-align: center;
+    font-style: italic;
 }
 .table{
     background-color: antiquewhite;
